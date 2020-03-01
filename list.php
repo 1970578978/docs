@@ -1,13 +1,10 @@
 <?php
 return [
     [
-        "dir" => "learn/php/TryphpSpl.md",
-        "title" => "php spl库初探",
-        "conten" => "php spl 标准库实现了一些基本的数据结构，在某些特定的场景下使用它们会带来更好的性能！",
+	    "nature_class" => 0,
+	    "content_class" => 4,
+	    "dir" => "notes/mess/ubuntu 16.04 server Selenium环境搭建.md",
+	    "title" => "ubuntu 16.04 server Selenium环境搭建简明教程",
+	    "descr" => "Selenium常用在ui自动化测试中，搭配浏览器可以完成很多功能，实习的时候业务有需要，就记录下环境搭配步骤。",
     ],
-    [
-        "dir" => "learn/cc/cppsum.md",
-        "title" => "c++新手项目总结",
-        "conten" => "c++新手项目，准备c++入门",
-    ]
 ];
