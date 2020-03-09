@@ -1,10 +1,10 @@
 <?php
 return [
     [
-	    "nature_class" => 0,
+	    "nature_class" => 1,
 	    "content_class" => 4,
-	    "dir" => "notes/mess/ubuntu 16.04 server Selenium环境搭建.md",
-	    "title" => "ubuntu 16.04 server Selenium环境搭建简明教程",
-	    "descr" => "Selenium常用在ui自动化测试中，搭配浏览器可以完成很多功能，实习的时候业务有需要，就记录下环境搭配步骤。",
+	    "dir" => "notes/mess/百度秋招面试总结.md",
+	    "title" => "百度秋招面试总结",
+	    "descr" => "今年秋招为了增加一些求职经历，于是有选择性的投了几个大公司，最后通过了百度的笔试，简单做一下面试总结。",
     ],
 ];
